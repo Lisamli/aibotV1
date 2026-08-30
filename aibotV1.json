@@ -1,0 +1,7 @@
+{
+  "authorized_hwids": [
+    { "hwid": "55abc404283d9c877f21e9ab327f800bde3e44faaceee71b8bd1a5b0b35ae49f", "note": "备注" },
+    { "hwid": "20c06bab7bc1f99f8ed3093cbeb800458f3bd69af6ed495ef2f55b918a7d9f05", "note": "备注" },
+    { "hwid": "c7e60fe4acd4946f33b7817fc74be42219f5ed5b765e95847721a8da0d3ca775", "note": "备注" }        
+  ]
+}
