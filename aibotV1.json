@@ -82,6 +82,7 @@
     { "hwid": "2b53d6c3bcaa78ff5e28ff40afe7f91fcbe1400f3877495aecb1daa984f55016", "note": "原来是瑶瑶" },
     { "hwid": "f2ab7796fe87fc9d14fa31a0fb021e529e0639f4f5d4a6f693c862b64a5d3f73", "note": "我自己的" },
     { "hwid": "17384262f6f63b53fd215e00224d2ec965db3d7cdf09114a5203d951e6ae754c", "note": "用户_00048827" },
+        { "hwid": "bd42819f30e7990c25b0aae76cd6e2217de00dd6319b2de7d27e068cd2dc5ae1", "note": "admin" },
     { "hwid": "87e8f45b297589641b4f219a7a9b4e21d13073223caa6f9d584476977f9cabed", "note": "tbNick_81gbg" }      
   ]
 }
